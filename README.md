@@ -1,6 +1,6 @@
 # API DAST - Pruebas de Seguridad Automatizadas para APIs con OWASP ZAP
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/jhneira-sol/zap-api-dast/DAST-API.yml?branch=main&label=DAST%20Scan)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Neivoc/zap-api-dast/DAST-API.yml?branch=main&label=DAST%20Scan)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![OWASP](https://img.shields.io/badge/OWASP-ZAP-blue)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF)
@@ -167,7 +167,7 @@ Si necesitas autenticación, el archivo `options.prop` ya está configurado para
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/jhneira-sol/zap-api-dast.git
+git clone https://github.com/Neivoc/zap-api-dast.git
 cd zap-api-dast
 ```
 
